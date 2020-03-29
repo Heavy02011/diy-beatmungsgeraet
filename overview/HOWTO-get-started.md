@@ -23,6 +23,7 @@
 - [rapid prototyping mit ESP8266 und Arduino, toolchain von iot-werkstatt.de ](http://www.iot-werkstatt.de) (Arduino/Ardublock/esp8266)
 
 ### 3.4 Konstruktion
+- [ ] ist mir derzeit unklar...
 
 ### 3.5 Produktion
 - [Bauteilliste / Bill of materials](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/master/production/BillOfMaterials.md)
