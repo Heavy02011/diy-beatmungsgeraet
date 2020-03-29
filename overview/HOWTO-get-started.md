@@ -20,7 +20,7 @@
 - [Bedienungsanleitung](https://docs.google.com/document/d/1diFWp0zVw1RVwhWoNN3_kPNcdyZHOF1CVrcSIN-Yl4k/edit#)
 
 ### 3.3 Steuerung-Controller
-- [rapid prototyping einen ESP8266 mit Arduino und die toolchain iot-werkstatt.de ](http://www.iot-werkstatt.de) (Arduino/Ardublock/esp8266)
+- [rapid prototyping mit ESP8266 und Arduino, toolchain von iot-werkstatt.de ](http://www.iot-werkstatt.de) (Arduino/Ardublock/esp8266)
 
 ### 3.4 Konstruktion
 
