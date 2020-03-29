@@ -22,3 +22,4 @@ Do we want to build this? [draeger sensor](https://www.intersurgical-webshop.de/
 ### 3.4 Konstruktion
 
 ### 3.5 Produktion
+- [Angebote Produktion](https://docs.google.com/spreadsheets/d/1LUdUw3KdKwsfoe5khSoW4la7FvFVV2GQ8lIa6iQQy2Q/edit#gid=0)
