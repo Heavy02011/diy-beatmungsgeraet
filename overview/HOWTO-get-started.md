@@ -10,7 +10,8 @@
 
 ### 3.1 Sensoren
 
-Do we want to build this? [draeger sensor](https://www.intersurgical-webshop.de/artikel/e-FlowSensor_fr_Drger_Evita_Ventilatoren_auer_V500)
+- [ ] Do we want to build this? [draeger sensor](https://www.intersurgical-webshop.de/artikel/e-FlowSensor_fr_Drger_Evita_Ventilatoren_auer_V500)
+- [ ] ...
 
 
 ### 3.2 Elektrik
