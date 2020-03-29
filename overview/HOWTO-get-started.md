@@ -15,6 +15,8 @@ Do we want to build this? [draeger sensor](https://www.intersurgical-webshop.de/
 
 ### 3.2 Elektrik
 
+- [Bedienungsanleitung](https://docs.google.com/document/d/1diFWp0zVw1RVwhWoNN3_kPNcdyZHOF1CVrcSIN-Yl4k/edit#)
+
 ### 3.3 Steuerung-Controller
 
 ### 3.4 Konstruktion
