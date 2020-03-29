@@ -23,6 +23,7 @@
 - [rapid prototyping mit ESP8266 und Arduino, toolchain von iot-werkstatt.de ](http://www.iot-werkstatt.de) (Arduino/Ardublock/esp8266)
 
 ### 3.4 Konstruktion
+- [Entwurf Modell](https://cad.onshape.com/documents/ca3252cb6ee1b301e7aaa2a6/w/63ce40e8b005bb09dedd9581/e/d98ecacadf5dcafe85eaabc6)
 - [ ] ist mir derzeit unklar...
 
 ### 3.5 Produktion
