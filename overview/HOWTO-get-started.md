@@ -31,7 +31,6 @@
 - [Bauteilliste / Bill of materials](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/master/production/BillOfMaterials.md)
 - [Angebote Produktion](https://docs.google.com/spreadsheets/d/1LUdUw3KdKwsfoe5khSoW4la7FvFVV2GQ8lIa6iQQy2Q/edit#gid=0)
 
-## 4 [Phabricator](https://diy-vent.vmcon.de)
-
-## 5 Tools
-- [electronics toolchain by iot-werkstatt.de ](http://www.iot-werkstatt.de)
+## 4 Tools
+- [communication: Phabricator](https://diy-vent.vmcon.de)
+- [electronics toolchain: by iot-werkstatt.de ](http://www.iot-werkstatt.de)
