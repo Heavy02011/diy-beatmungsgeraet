@@ -7,6 +7,9 @@
 
 ## 2 [Daily Team Reports](https://drive.google.com/drive/folders/1Poj6eQrTGcuFaNvTQpUK7rhnsla_4bZM)
 
+## 3 Team
+[Wer macht was?](https://docs.google.com/spreadsheets/d/14iK43_9iVxzsmhz-_uRrMryCg8FGqd8tmbPuiISTWPA/edit#gid=0)
+
 ## 3 Entwicklung / Discord Teams
 
 ### 3.1 Sensoren
