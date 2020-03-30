@@ -41,3 +41,8 @@
 
 ## 6 Begriffe
 - [PEEP](https://de.wikipedia.org/wiki/Positiver_endexspiratorischer_Druck)
+
+## 7 Ähnliche Projekte
+- [MIT E-VENT](https://e-vent.mit.edu)
+- [Medtronic PB560](https://www.medtronic.com/us-en/e/open-files/thank-you.html)
+
