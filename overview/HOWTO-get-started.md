@@ -12,26 +12,29 @@
 
 ## 4 Entwicklung / Discord Teams
 
-### 4.1 Sensoren
+## 4.1 Medizinische Anforderungen
+- [Minimalanforderungen](https://drive.google.com/file/d/1TL7LtARnfs0eHmBsbylj6cVH2k5HUjBI/view)
+
+### 4.2 Sensoren
 
 - [ ] Do we want to build this? [draeger sensor](https://www.intersurgical-webshop.de/artikel/e-FlowSensor_fr_Drger_Evita_Ventilatoren_auer_V500)
 - [ ] ...
 
 
-### 4.2 Elektrik
+### 4.3 Elektrik
 
 - [Anforderungen / Requirements_and_tracking_v01_draftB](https://docs.google.com/spreadsheets/d/1oL9XO6Ey1GSyyw_gpmk-_erB-_KR36lmKQfrJcQtAf0/edit#gid=0)
 - [Anforderungen / Requirements_and_tracking_v01_draftC](https://docs.google.com/spreadsheets/d/1oL9XO6Ey1GSyyw_gpmk-_erB-_KR36lmKQfrJcQtAf0/edit#gid=437576008)
 - [Bedienungsanleitung](https://docs.google.com/document/d/1diFWp0zVw1RVwhWoNN3_kPNcdyZHOF1CVrcSIN-Yl4k/edit#)
 
-### 4.3 Steuerung-Controller
+### 4.4 Steuerung-Controller
 - rapid prototyping mit ESP8266 und Arduino, toolchain von iot-werkstatt.de (Arduino/Ardublock/esp8266)
 
-### 4.4 Konstruktion (3 Varianten hier noch nicht aktuell!)
+### 4.5 Konstruktion (3 Varianten hier noch nicht aktuell!)
 - [Entwurf Modell](https://cad.onshape.com/documents/ca3252cb6ee1b301e7aaa2a6/w/63ce40e8b005bb09dedd9581/e/d98ecacadf5dcafe85eaabc6)
 - [Leistungsberechnung für Kompression Ambubeutel](https://drive.google.com/file/d/13MQIpCnQC3tWWwHfYjf9ZnM5vFkgXrqK/view)
 
-### 4.5 Produktion
+### 4.6 Produktion
 - [Bauteilliste / Bill of materials](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/master/production/BillOfMaterials.md)
 - [Angebote Produktion](https://docs.google.com/spreadsheets/d/1LUdUw3KdKwsfoe5khSoW4la7FvFVV2GQ8lIa6iQQy2Q/edit#gid=0)
 
