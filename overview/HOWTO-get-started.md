@@ -38,3 +38,6 @@
 ## 5 Tools
 - [communication: Phabricator](https://diy-vent.vmcon.de)
 - [electronics toolchain: by iot-werkstatt.de ](http://www.iot-werkstatt.de)
+
+## Begriffe
+- [PEEP](https://de.wikipedia.org/wiki/Positiver_endexspiratorischer_Druck)
