@@ -21,7 +21,7 @@
 ### 4.2 Elektrik
 
 - [Anforderungen / Requirements_and_tracking_v01_draftB](https://docs.google.com/spreadsheets/d/1oL9XO6Ey1GSyyw_gpmk-_erB-_KR36lmKQfrJcQtAf0/edit#gid=0)
-- [ ] [Anforderungen / Requirements_and_tracking_v01_draftC](https://docs.google.com/spreadsheets/d/1oL9XO6Ey1GSyyw_gpmk-_erB-_KR36lmKQfrJcQtAf0/edit#gid=437576008)
+- [Anforderungen / Requirements_and_tracking_v01_draftC](https://docs.google.com/spreadsheets/d/1oL9XO6Ey1GSyyw_gpmk-_erB-_KR36lmKQfrJcQtAf0/edit#gid=437576008)
 - [Bedienungsanleitung](https://docs.google.com/document/d/1diFWp0zVw1RVwhWoNN3_kPNcdyZHOF1CVrcSIN-Yl4k/edit#)
 
 ### 4.3 Steuerung-Controller
