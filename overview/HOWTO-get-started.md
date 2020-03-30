@@ -41,3 +41,10 @@
 
 ## 6 Begriffe
 - [PEEP](https://de.wikipedia.org/wiki/Positiver_endexspiratorischer_Druck)
+
+## 7 Ähnliche Projekte
+- [Gläserne Lunge der TH Ulm](https://www.youtube.com/watch?v=ssFJrhjCaZM)
+
+## 8 Ressourcen
+- [Arduino Simulatoren](https://www.blogsdna.com/31677/arduino-simulator.htm)
+- [Matlab Simulation of Lung Model](https://in.mathworks.com/help/physmod/simscape/examples/medical-ventilator-with-lung-model.html)
