@@ -27,9 +27,9 @@
 ### 4.3 Steuerung-Controller
 - rapid prototyping mit ESP8266 und Arduino, toolchain von iot-werkstatt.de (Arduino/Ardublock/esp8266)
 
-### 4.4 Konstruktion
+### 4.4 Konstruktion (3 Varianten hier noch nicht aktuell!)
 - [Entwurf Modell](https://cad.onshape.com/documents/ca3252cb6ee1b301e7aaa2a6/w/63ce40e8b005bb09dedd9581/e/d98ecacadf5dcafe85eaabc6)
-- [ ] ist mir derzeit unklar...
+- [Leistungsberechnung für Kompression Ambubeutel](https://drive.google.com/file/d/13MQIpCnQC3tWWwHfYjf9ZnM5vFkgXrqK/view)
 
 ### 4.5 Produktion
 - [Bauteilliste / Bill of materials](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/master/production/BillOfMaterials.md)
