@@ -47,7 +47,7 @@
 
 ## 6 Zertifizierung
 - [Protokoll Testing-Verifizierung-Validierung 30.03.2020](https://docs.google.com/document/d/1C4MVZzZEeGImjwaGV9cXWb1G6tRmLATtZ4t-pIGpXyI/edit)
-- ![Ausgangsgroeßen_Subsysteme_Interfaces](https://docs.google.com/drawings/d/19PCxqSuF3kLoVB6Y3_E7RkKJSa7In5nn7xe4Tx8x47I/edit)
+- [Ausgangsgroeßen_Subsysteme_Interfaces](https://docs.google.com/drawings/d/19PCxqSuF3kLoVB6Y3_E7RkKJSa7In5nn7xe4Tx8x47I/edit)
 
 ## 6 Begriffe
 - [PEEP](https://de.wikipedia.org/wiki/Positiver_endexspiratorischer_Druck)
