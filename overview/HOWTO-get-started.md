@@ -34,6 +34,9 @@
 - [Entwurf Modell](https://cad.onshape.com/documents/ca3252cb6ee1b301e7aaa2a6/w/63ce40e8b005bb09dedd9581/e/d98ecacadf5dcafe85eaabc6)
 - [Leistungsberechnung für Kompression Ambubeutel](https://drive.google.com/file/d/13MQIpCnQC3tWWwHfYjf9ZnM5vFkgXrqK/view)
 
+### konstruktion3
+- [Beschreibung](https://drive.google.com/file/d/1FVWSfbfxZAJ0tPTbkNpN0tFfh1SAgthM/view)
+
 ### 4.6 Produktion
 - [Bauteilliste / Bill of materials](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/master/production/BillOfMaterials.md)
 - [Angebote Produktion](https://docs.google.com/spreadsheets/d/1LUdUw3KdKwsfoe5khSoW4la7FvFVV2GQ8lIa6iQQy2Q/edit#gid=0)
