@@ -74,6 +74,8 @@ Die Konstruktion einer Kolbenpumpe erscheint auf den ersten Blick etwas aufwänd
 
 Voraussetzung für eine sinnvolle Konstruktion ist der Antrieb des Kolbens über einen Spindelantrieb. Erste Überlegungen zu einem Kurbelantrieb wurden schnell verworfen, weil dabei das Hubvolumen mit einem zweiten Aktor verändert werden müsste.
 
+[Daten zum Nachbauen](https://discordapp.com/channels/692691407256682539/693876279992254464/695968132728094790)
+
 ## Onboarding
 Die Arbeitsgruppe bewahrt den Überblick über unsere Mitglieder. Für alle Fragen rund um das „Personalmanagement“ sind sie die richtige Ansprechpartner. Zudem versuchen sie gezielt zu vermitteln, sodass sich jede und jeder entsprechend der eigenen Fähigkeiten optimal einbringen kann.
 
