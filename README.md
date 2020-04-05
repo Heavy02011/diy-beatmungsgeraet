@@ -67,7 +67,9 @@ Abbildung Quelle: https://e-vent.mit.edu/mechanical/plumbing/
 ![](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/D0813176-2920-414B-8714-8BC2111018F8.jpeg)
 
 ## Konstruktion 2 -- Motorisch betriebener Beatmungsbeutel - Druckluftbetrieb
-## Konstruktion 3 -- Kolbenpumpe
+## Konstruktion 3 -- 
+![](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/BDF3B40B-263C-473B-A8B8-4762D20297C1.jpeg)
+Quelle: Discord channel #konstruktion3
 Ausgangspunkt für diese Konstruktion ist die Überlegung, dass Ambu-Beutel zwar ganz wichtige Vorteile (grundsätzliche Verfügbarkeit und Zertifizierung für Notbeatmung), aber auch zentrale Nachteile haben. Dazu gehört, dass sie in Zeiten dieser Krise bereits zu den knappen Gütern gehören und vielfach nicht mehr lagerhaltig zur Verfügung stehen, dass sie nur für eine äußerst begrenzte Standzeit (wenige Stunden Einsatz) gebaut sind und dass ihre automatische mechanische Betätigung möglicherweise doch nicht so einfach ist, wie zunächst angenommen.
 
 Die Konstruktion einer Kolbenpumpe erscheint auf den ersten Blick etwas aufwändiger. Vorhandene und im medizinischen Prozess zertifizierte Bauteile sind den im Moment beteiligten Entwicklern nicht bekannt (und auch nicht umfangreich recherchiert worden). Vorteile einer Kolbenpumpe ist die jederzeitige relativ genaue Kenntnis über das „eingeblasene“ Volumen über den Verfahrweg des Kolbens im Zylinder.
