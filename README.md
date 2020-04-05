@@ -29,7 +29,7 @@ Wir arbeiten an verschiedensten Themen. Zum einen etwa an der Weiterentwicklung 
 * [Phabricator (Taskboard)](https://diy-vent.vmcon.de/)
 
 # Discord-Server
-## erste Schritte auf dem Discord
+## Erste Schritte auf dem Discord
 1. Vorstellung im Textkanal `Willkommen > #vorstellung`
 2. Nickname ändern zu VornameNachname
 	* rechter Mausklick auf deinen Namen in der rechten Spalte
@@ -72,6 +72,7 @@ Die Arbeitsgruppe bewahrt den Überblick über unsere Mitglieder. Für alle Frag
 ## Testing
 ## Management
 ## Requirements und Risiken
+- [Requirements_and_tracking_v01_draftD](https://docs.google.com/spreadsheets/d/1g51Zr3aXuJa8Xe4WVbXgiYnll-a5mOB1ONs-IWp97Ys/edit#gid=2056750683)
 ## Fundraising
 ## Springer
 
