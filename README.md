@@ -53,6 +53,9 @@ Die hier beschriebenen Arbeitsgruppen sind analog zu den Nutzergruppen des Disco
 Die Arbeitsgruppe Kommunikation beinhalte die Administration und Füllung der Website, die Verwaltung des Discord-Servers, die Öffentlichkeitsarbeit per Twitter und die Pflege der Presse- und Behördenkontakte. Da die Teilbereiche eng miteinander arbeiten und sich zum Teil auch überschneiden, wurde von einer kleinteiligeren Aufteilung abgesehen.
 
 ## Konstruktion 1 -- Motorisch betriebener Beatmungsbeutel
+Prinzipskizze Ambubeutel
+![]()
+Abbildung Quelle: https://e-vent.mit.edu/mechanical/plumbing/
 ## Konstruktion 2 -- Motorisch betriebener Beatmungsbeutel - Alternative: Druckluftbetrieb
 ## Konstruktion 3 -- Kolbenpumpe
 Ausgangspunkt für diese Konstruktion ist die Überlegung, dass Ambu-Beutel zwar ganz wichtige Vorteile (grundsätzliche Verfügbarkeit und Zertifizierung für Notbeatmung), aber auch zentrale Nachteile haben. Dazu gehört, dass sie in Zeiten dieser Krise bereits zu den knappen Gütern gehören und vielfach nicht mehr lagerhaltig zur Verfügung stehen, dass sie nur für eine äußerst begrenzte Standzeit (wenige Stunden Einsatz) gebaut sind und dass ihre automatische mechanische Betätigung möglicherweise doch nicht so einfach ist, wie zunächst angenommen.
