@@ -66,6 +66,7 @@ Die Arbeitsgruppe bewahrt den Überblick über unsere Mitglieder. Für alle Frag
 
 ## Produktion
 ## Elektrik
+Überblick, Quelle: MIT
 ![Überblick, Quelle: MIT](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/3C090925-A8ED-4ABD-90A5-0449E42232E5.jpeg)
 ## Sensorik
 ## Steuerung/Controller
