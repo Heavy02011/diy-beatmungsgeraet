@@ -73,6 +73,7 @@ Die Arbeitsgruppe bewahrt den Überblick über unsere Mitglieder. Für alle Frag
 ## Management
 ## Requirements und Risiken
 - [Requirements_and_tracking_v01_draftD](https://docs.google.com/spreadsheets/d/1g51Zr3aXuJa8Xe4WVbXgiYnll-a5mOB1ONs-IWp97Ys/edit#gid=2056750683)
+- [Risikoanalyse Draft](https://docs.google.com/spreadsheets/d/1g51Zr3aXuJa8Xe4WVbXgiYnll-a5mOB1ONs-IWp97Ys/edit#gid=1530841219)
 ## Fundraising
 ## Springer
 
