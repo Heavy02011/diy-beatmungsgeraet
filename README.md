@@ -54,7 +54,7 @@ Die Arbeitsgruppe Kommunikation beinhalte die Administration und Füllung der We
 
 ## Konstruktion 1 -- Motorisch betriebener Beatmungsbeutel
 Prinzipskizze Ambubeutel
-![]()
+![](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/141AF2AC-B958-4B01-ACB1-9FEADD25CCC0.png)
 Abbildung Quelle: https://e-vent.mit.edu/mechanical/plumbing/
 ## Konstruktion 2 -- Motorisch betriebener Beatmungsbeutel - Alternative: Druckluftbetrieb
 ## Konstruktion 3 -- Kolbenpumpe
