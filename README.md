@@ -52,6 +52,11 @@ Die hier beschriebenen Arbeitsgruppen sind analog zu den Nutzergruppen des Disco
 ## Kommunikation
 Die Arbeitsgruppe Kommunikation beinhalte die Administration und Füllung der Website, die Verwaltung des Discord-Servers, die Öffentlichkeitsarbeit per Twitter und die Pflege der Presse- und Behördenkontakte. Da die Teilbereiche eng miteinander arbeiten und sich zum Teil auch überschneiden, wurde von einer kleinteiligeren Aufteilung abgesehen.
 
+## Requirements und Risiken
+- [Requirements_and_tracking_v01_draftD](https://docs.google.com/spreadsheets/d/1g51Zr3aXuJa8Xe4WVbXgiYnll-a5mOB1ONs-IWp97Ys/edit#gid=2056750683)
+- [PHA - Preliminary hazard analysis](https://docs.google.com/spreadsheets/d/1g51Zr3aXuJa8Xe4WVbXgiYnll-a5mOB1ONs-IWp97Ys/edit#gid=1530841219)
+- [Folien zu den Anforderungen](https://drive.google.com/file/d/1e-bYNLMaNidR1X9P1XxWUv-KgIbakMQd/view)
+
 ## Konstruktion 1 -- Motorisch betriebener Beatmungsbeutel
 Prinzipskizze Ambubeutel
 ![](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/141AF2AC-B958-4B01-ACB1-9FEADD25CCC0.png)
@@ -76,10 +81,6 @@ Die Arbeitsgruppe bewahrt den Überblick über unsere Mitglieder. Für alle Frag
 ## Userinterface
 ## Testing
 ## Management
-## Requirements und Risiken
-- [Requirements_and_tracking_v01_draftD](https://docs.google.com/spreadsheets/d/1g51Zr3aXuJa8Xe4WVbXgiYnll-a5mOB1ONs-IWp97Ys/edit#gid=2056750683)
-- [PHA - Preliminary hazard analysis](https://docs.google.com/spreadsheets/d/1g51Zr3aXuJa8Xe4WVbXgiYnll-a5mOB1ONs-IWp97Ys/edit#gid=1530841219)
-- [Folien zu den Anforderungen](https://drive.google.com/file/d/1e-bYNLMaNidR1X9P1XxWUv-KgIbakMQd/view)
 ## Fundraising
 ## Springer
 
