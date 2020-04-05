@@ -79,6 +79,7 @@ Die Arbeitsgruppe bewahrt den Überblick über unsere Mitglieder. Für alle Frag
 ## Requirements und Risiken
 - [Requirements_and_tracking_v01_draftD](https://docs.google.com/spreadsheets/d/1g51Zr3aXuJa8Xe4WVbXgiYnll-a5mOB1ONs-IWp97Ys/edit#gid=2056750683)
 - [PHA - Preliminary hazard analysis](https://docs.google.com/spreadsheets/d/1g51Zr3aXuJa8Xe4WVbXgiYnll-a5mOB1ONs-IWp97Ys/edit#gid=1530841219)
+- [Folien zu den Anforderungen](https://drive.google.com/file/d/1e-bYNLMaNidR1X9P1XxWUv-KgIbakMQd/view)
 ## Fundraising
 ## Springer
 
