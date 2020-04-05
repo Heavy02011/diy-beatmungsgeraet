@@ -67,6 +67,7 @@ Abbildung Quelle: https://e-vent.mit.edu/mechanical/plumbing/
 ![](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/D0813176-2920-414B-8714-8BC2111018F8.jpeg)
 
 ## Konstruktion 2 -- Motorisch betriebener Beatmungsbeutel - Druckluftbetrieb
+Status unklar
 ## Konstruktion 3 -- Motorisch betriebene Kolbenpumpe
 ![](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/BDF3B40B-263C-473B-A8B8-4762D20297C1.jpeg)
 Quelle: Discord channel #konstruktion3
