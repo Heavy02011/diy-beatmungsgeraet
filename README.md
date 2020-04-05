@@ -62,7 +62,7 @@ Prinzipskizze Ambubeutel
 ![](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/141AF2AC-B958-4B01-ACB1-9FEADD25CCC0.png)
 Abbildung Quelle: https://e-vent.mit.edu/mechanical/plumbing/
 
-![]()
+![](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/D0813176-2920-414B-8714-8BC2111018F8.jpeg)
 Quelle: Guido (FabLabEu)#8070
 ## Konstruktion 2 -- Motorisch betriebener Beatmungsbeutel - Alternative: Druckluftbetrieb
 ## Konstruktion 3 -- Kolbenpumpe
