@@ -61,6 +61,9 @@ Die Arbeitsgruppe Kommunikation beinhalte die Administration und Füllung der We
 Prinzipskizze Ambubeutel
 ![](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/141AF2AC-B958-4B01-ACB1-9FEADD25CCC0.png)
 Abbildung Quelle: https://e-vent.mit.edu/mechanical/plumbing/
+
+![]()
+Quelle: Guido (FabLabEu)#8070
 ## Konstruktion 2 -- Motorisch betriebener Beatmungsbeutel - Alternative: Druckluftbetrieb
 ## Konstruktion 3 -- Kolbenpumpe
 Ausgangspunkt für diese Konstruktion ist die Überlegung, dass Ambu-Beutel zwar ganz wichtige Vorteile (grundsätzliche Verfügbarkeit und Zertifizierung für Notbeatmung), aber auch zentrale Nachteile haben. Dazu gehört, dass sie in Zeiten dieser Krise bereits zu den knappen Gütern gehören und vielfach nicht mehr lagerhaltig zur Verfügung stehen, dass sie nur für eine äußerst begrenzte Standzeit (wenige Stunden Einsatz) gebaut sind und dass ihre automatische mechanische Betätigung möglicherweise doch nicht so einfach ist, wie zunächst angenommen.
