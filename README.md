@@ -46,14 +46,14 @@ Das **offizielle Github-Repository** ist [hier](https://github.com/DIY-Beatmungs
 
 **Servergruppen** sind ein tolles Ding. Nicht nur für das Gruppengefühl, sondern auch um zu Zeigen in welcher Arbeitsgruppe man tätig ist. Das erleichtert die Kommunikation und es ist auf einen Blick ersichtlich wer bezüglich einer Arbeitsgruppe und Fagen dazu ansprechbar ist. Im Textkanal `#info-brett` findest du einen Beitrag, über den du dich einer oder mehrere Arbeitsgruppen zuweisen kannst. Bist du keiner Arbeitsgruppe zugeordnet, hast du in allen Kanälen nur Leserechte.
 
-# die Arbeitsgruppen
+# Arbeitsgruppen
 Die hier beschriebenen Arbeitsgruppen sind analog zu den Nutzergruppen des Discord-Servers.
 
 ## Kommunikation
 Die Arbeitsgruppe Kommunikation beinhalte die Administration und Füllung der Website, die Verwaltung des Discord-Servers, die Öffentlichkeitsarbeit per Twitter und die Pflege der Presse- und Behördenkontakte. Da die Teilbereiche eng miteinander arbeiten und sich zum Teil auch überschneiden, wurde von einer kleinteiligeren Aufteilung abgesehen.
 
-## Konstruktion 1 --
-## Konstruktion 2 --
+## Konstruktion 1 -- Motorisch betriebener Beatmungsbeutel
+## Konstruktion 2 -- Motorisch betriebener Beatmungsbeutel - Alternative: Druckluftbetrieb
 ## Konstruktion 3 -- Kolbenpumpe
 Ausgangspunkt für diese Konstruktion ist die Überlegung, dass Ambu-Beutel zwar ganz wichtige Vorteile (grundsätzliche Verfügbarkeit und Zertifizierung für Notbeatmung), aber auch zentrale Nachteile haben. Dazu gehört, dass sie in Zeiten dieser Krise bereits zu den knappen Gütern gehören und vielfach nicht mehr lagerhaltig zur Verfügung stehen, dass sie nur für eine äußerst begrenzte Standzeit (wenige Stunden Einsatz) gebaut sind und dass ihre automatische mechanische Betätigung möglicherweise doch nicht so einfach ist, wie zunächst angenommen.
 
@@ -75,12 +75,12 @@ Die Arbeitsgruppe bewahrt den Überblick über unsere Mitglieder. Für alle Frag
 ## Fundraising
 ## Springer
 
-# regelmäßige Berichte der Arbeitsgruppen
-Bitte jeden Abend um gegen 18:00 in die [GoogleDrive](https://drive.google.com/drive/folders/1Poj6eQrTGcuFaNvTQpUK7rhnsla_4bZM?usp=sharing ) einen kurzen Bericht zum aktuellen Stand machen.
+# Regelmäßige Berichte der Arbeitsgruppen
+Bitte **jeden Abend um gegen 18:00** in die [GoogleDrive](https://drive.google.com/drive/folders/1Poj6eQrTGcuFaNvTQpUK7rhnsla_4bZM?usp=sharing ) einen kurzen Bericht zum aktuellen Stand machen.
 Entweder Textdatei oder Präsentation. Ziel ist, dass das Managementteam und andere Teams sehen können wo ihr steht und auch das Neulinge sich schnell einlesen und zurechtfinden können.
 
-# regelmäßige Calls
-- das Kernteam hat Dienstags und Donnerstags 20:00 eine Videokonferenz (jeder darf zuhören). Protokoll im Protokoll Ordner.
+# Regelmäßige Calls
+- das Kernteam hat **Dienstags und Donnerstags 20:00** eine Videokonferenz (jeder darf zuhören). Protokoll im Protokoll Ordner.
 - andere Teams legen eigenverantwortlich ihre regelmäßigen Runden fest und schreiben darüber auch Protokoll.
 
 # FAQ und Wegweiser
