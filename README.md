@@ -66,7 +66,7 @@ Abbildung Quelle: https://e-vent.mit.edu/mechanical/plumbing/
 ### Prototyp Beispiel: Guido (FabLabEu)#8070
 ![](https://github.com/Heavy02011/diy-beatmungsgeraet/blob/readme/images/D0813176-2920-414B-8714-8BC2111018F8.jpeg)
 
-## Konstruktion 2 -- Motorisch betriebener Beatmungsbeutel - Alternative: Druckluftbetrieb
+## Konstruktion 2 -- Motorisch betriebener Beatmungsbeutel - Druckluftbetrieb
 ## Konstruktion 3 -- Kolbenpumpe
 Ausgangspunkt für diese Konstruktion ist die Überlegung, dass Ambu-Beutel zwar ganz wichtige Vorteile (grundsätzliche Verfügbarkeit und Zertifizierung für Notbeatmung), aber auch zentrale Nachteile haben. Dazu gehört, dass sie in Zeiten dieser Krise bereits zu den knappen Gütern gehören und vielfach nicht mehr lagerhaltig zur Verfügung stehen, dass sie nur für eine äußerst begrenzte Standzeit (wenige Stunden Einsatz) gebaut sind und dass ihre automatische mechanische Betätigung möglicherweise doch nicht so einfach ist, wie zunächst angenommen.
 
