@@ -13,11 +13,11 @@ Das 3D-Modell des Beatmungsgerätes basiert auf Iteration #6 des Open Source Ven
 
 Wir arbeiten an verschiedensten Themen. Zum einen etwa an der Weiterentwicklung des Beatmungsgerätes, als auch an dessen Ansteuerung bzw. Regelung und weiterer Sensorik.
 
-* [/ hardware / mass-airflow-model /](/hardware/mass-airflow-model/): Modelle für die Röhre eines Masseflusssensors
-* [/ hardware / ventilator-model/](/hardware/ventilator-model/): das weiterentwickelte Modell des Beatmungsgerätes
-* [/ software / mass-airflow-sensor / controller-software/](/software/mass-airflow-sensor/controller-software/): die Software, die auf der Plattform läuft, um den Luftmassesensor auszulesen (Mock-Up)
-* [/ software / mass-airflow-sensor / sensor-software/](/software/mass-airflow-sensor/sensor-software/): die Software, die auf dem Sensor selbst läuft, der Luftmassesensor-Daten bereitstellt (Mock-Up)
-* [/ software / ventilator-control/](/software/ventilator-control/): die Software für die Steuerungs-Plattform des Beatmungsgerätes
+* [/hardware/mass-airflow-model/](/hardware/mass-airflow-model/): Modelle für die Röhre eines Masseflusssensors
+* [/hardware/ventilator-model/](/hardware/ventilator-model/): das weiterentwickelte Modell des Beatmungsgerätes
+* [/software/mass-airflow-sensor/controller-software/](/software/mass-airflow-sensor/controller-software/): die Software, die auf der Plattform läuft, um den Luftmassesensor auszulesen (Mock-Up)
+* [/software/mass-airflow-sensor/sensor-software/](/software/mass-airflow-sensor/sensor-software/): die Software, die auf dem Sensor selbst läuft, der Luftmassesensor-Daten bereitstellt (Mock-Up)
+* [/software/ventilator-control/](/software/ventilator-control/): die Software für die Steuerungs-Plattform des Beatmungsgerätes
 
 
 # Weiterführende Links
@@ -42,9 +42,7 @@ Kommunikation und Diskussion funktionieren über Textkanäle schon ganz gut, abe
 
 Kennst du schon den **Phabricator**? Er hilft bei der Übersicht der Aufgaben. Um ihn zu nutzen, registriere/melde dich bitte auf https://diy-vent.vmcon.de/ an. Ein detaillierte Anleitung dafür findest du [hier](https://docs.google.com/document/d/13HGdLew2o9hQ6I6csHRrQ5bDhwd4Uv7NS_OEr5iKHa8/edit#heading=h.q1sumqpr1ip0).
 
-Das **offizielle Github-Repository** ist [hier](https://github.com/DIY-Beatmungsgerat/diy-beatmungsgeraet) zu finden. Nutzt und erweitert es und stellt pullrequests wenn ihr Fortschritte macht.
-
-**Servergruppen** sind ein tolles Ding. Nicht nur für das Gruppengefühl, sondern auch um zu Zeigen in welcher Arbeitsgruppe man tätig ist. Das erleichtert die Kommunikation und es ist auf einen Blick ersichtlich wer bezüglich einer Arbeitsgruppe und Fagen dazu ansprechbar ist. Im Textkanal `#info-brett` findest du einen Beitrag, über den du dich einer oder mehrere Arbeitsgruppen zuweisen kannst. Bist du keiner Arbeitsgruppe zugeordnet, hast du in allen Kanälen nur Leserechte.
+**Servergruppen** sind ein tolles Ding. Nicht nur für das Gruppengefühl, sondern auch um zu Zeigen in welcher Arbeitsgruppe man tätig ist. Das erleichtert die Kommunikation und es ist auf einen Blick ersichtlich wer bezüglich einer Arbeitsgruppe und Fagen dazu ansprechbar ist. Im Textkanal `#dein-start-auf-dem-server` findest du einen Beitrag, über den du dich einer oder mehrere Arbeitsgruppen zuweisen kannst. Bist du keiner Arbeitsgruppe zugeordnet, hast du in allen Kanälen nur Leserechte.
 
 # Arbeitsgruppen
 Die hier beschriebenen Arbeitsgruppen sind analog zu den Nutzergruppen des Discord-Servers.
@@ -78,10 +76,11 @@ Die Konstruktion einer Kolbenpumpe erscheint auf den ersten Blick etwas aufwänd
 
 Voraussetzung für eine sinnvolle Konstruktion ist der Antrieb des Kolbens über einen Spindelantrieb. Erste Überlegungen zu einem Kurbelantrieb wurden schnell verworfen, weil dabei das Hubvolumen mit einem zweiten Aktor verändert werden müsste.
 
-[Daten zum Nachbauen](https://discordapp.com/channels/692691407256682539/693876279992254464/695968132728094790)
+[Post zum Nachbauen im Discord](https://discordapp.com/channels/692691407256682539/693876279992254464/695968132728094790)
+[die gleichen Daten auf thingverse.com](https://www.thingiverse.com/thing:39755)
 
 ## PEEP Valve
-[Druckdateien](https://www.thingiverse.com/thing:4250354?fbclid=IwAR1eSKNGrxTXSZHuwNc1Qe4hpCTNqQp0oQK67WiM61Q62zCD8AtoKVQCZTc)
+[Druckdateien auf thingverse.com](https://www.thingiverse.com/thing:4250354)
 
 ## Onboarding
 Die Arbeitsgruppe bewahrt den Überblick über unsere Mitglieder. Für alle Fragen rund um das „Personalmanagement“ sind sie die richtige Ansprechpartner. Zudem versuchen sie gezielt zu vermitteln, sodass sich jede und jeder entsprechend der eigenen Fähigkeiten optimal einbringen kann.
@@ -110,3 +109,7 @@ Entweder Textdatei oder Präsentation. Ziel ist, dass das Managementteam und and
 hier faq von der webseite und dein "HOWTO Start"
 
 # Tools
+* Git und Github (Versionsverwaltung)
+* Phabricator (Aufgabenverteilung)
+* Discord (Kommunikation in Text und Sprache)
+* onshape CAD
